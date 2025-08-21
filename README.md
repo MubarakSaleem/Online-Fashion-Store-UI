@@ -21,10 +21,14 @@ It focuses on how the DOM (Document Object Model) can be used to make webpages i
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-#**🎯 Who is this for?**
+# **🎯 Who is this for?**
 
 1)Beginners learning front-end development
 
 2)Students practicing JavaScript and DOM concepts
 
 3)Anyone curious about how static webpages become interactive
+
+----------------------------------------------------------------------------------------------------------------------------
+
+✨ Great as a starter project before moving into frameworks like React or Vue.
