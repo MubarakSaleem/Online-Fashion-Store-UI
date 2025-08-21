@@ -8,3 +8,9 @@ It focuses on how the DOM (Document Object Model) can be used to make webpages i
 ----------------------------------------------------------------------------------------------------------------
 
 # **🚀 Features**
+
+Basic webpage structure with HTML
+Styling with CSS (colors, layout, fonts)
+Interactive functionality using JavaScript
+Hands-on examples of DOM manipulation
+Beginner-friendly code with comments for easy learning
